@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1481923643 source:c:\users\seiji\férias-2016-2017\minhasfinanças\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<fstream>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	"PersistenciaDeTabela.h"
+	"TabelasDeDados.h"
+	"InterfacePrograma.h"
+	<locale>
+
+1481922309 source:c:\users\seiji\férias-2016-2017\minhasfinanças\src\persistenciadetabela.cpp
+	"PersistenciaDeTabela.h"
+
+1481923603 c:\users\seiji\férias-2016-2017\minhasfinanças\include\persistenciadetabela.h
+	<stdexcept>
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	<iostream>
+	<locale>
+	<iomanip>
+	"TabelasDeDados.h"
+
+1481923597 c:\users\seiji\férias-2016-2017\minhasfinanças\include\tabelasdedados.h
+	<string>
+	<stdexcept>
+
+1481923593 source:c:\users\seiji\férias-2016-2017\minhasfinanças\src\tabelasdedados.cpp
+	"TabelasDeDados.h"
+
+1481923556 c:\users\seiji\férias-2016-2017\minhasfinanças\include\interfaceprograma.h
+	<iostream>
+	<cstdlib>
+	<locale>
+
+1481923558 source:c:\users\seiji\férias-2016-2017\minhasfinanças\src\interfaceprograma.cpp
+	"InterfacePrograma.h"
+
+1481920043 source:c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<fstream>
+	<cmath>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	"PersistenciaDeTabela.h"
+	"TabelasDeDados.h"
+	"InterfacePrograma.h"
+	<locale>
+
+1481920003 c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\include\persistenciadetabela.h
+	<stdexcept>
+	<fstream>
+	<string>
+	<vector>
+	<iostream>
+	<iostream>
+	<locale>
+	<iomanip>
+	"TabelasDeDados.h"
+
+1481919997 c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\include\tabelasdedados.h
+	<string>
+	<stdexcept>
+
+1481919956 c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\include\interfaceprograma.h
+	<iostream>
+	<cstdlib>
+	<locale>
+
+1481919958 source:c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\src\interfaceprograma.cpp
+	"InterfacePrograma.h"
+
+1481918709 source:c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\src\persistenciadetabela.cpp
+	"PersistenciaDeTabela.h"
+
+1481919993 source:c:\users\seiji\desktop\seiji\férias-2016-2017\minhasfinanças\src\tabelasdedados.cpp
+	"TabelasDeDados.h"
+

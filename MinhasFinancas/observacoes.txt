@@ -1,0 +1,15 @@
+App de finanças: funcionalidades que pretendo inserir:
+
+ok-Se o arquivo ainda nao existir, colocar cabeçalho para as colunas;
+ok-Calcular saldo total;
+ok-Exibir informacoes das ultimas x transacoes;
+ok-Alinhamento de colunas ao exibir as ultimas x transacoes;
+ok-Como apagar a tela à medida que novos comandos vao sendo executados;
+
+-Devedores;
+-Dividas;
+-criar interface para usar como um app msm;
+-implementar para celular;
+-comunicar em nuvem;
+-Inserir outros caracteres, como $ e ç;
+
